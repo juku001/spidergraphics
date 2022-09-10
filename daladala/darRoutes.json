@@ -5,7 +5,7 @@
 	"viaRoad": "Nyerere Road",
 	"image" : "images/buzaGerezani.png",
 	"stops" : [
-				"buza kanisa",
+				"Buza Kanisani",
 				"kwa osama",
 				"buza hospital",
 				"kalulenge",
@@ -26,7 +26,7 @@
 				"keko",
 				"veta", 
 				"darajani",
-				"gerezani",
+				"gerezani"
 
 	]
 
@@ -100,7 +100,7 @@
 			"mikumi",
 			"bamia",
 			"azam",
-			"mbande mwisho",	
+			"mbande mwisho"	
 
 	]
 
@@ -125,7 +125,7 @@
 			"mivinjeni",
 			"bandari ya kwanza",
 			"majani ya chai",
-			"stesheni",
+			"stesheni"
 
 	]
 },
@@ -155,7 +155,7 @@
 				"kwa mparasinge",
 				"serengeti",
 				"kwa chagani",
-				"ferry", 
+				"ferry" 
 			]
 	}
 ]
