@@ -1,472 +1,161 @@
 [
+{
+	"id":"198",
+	"routeName":"Buza - Gerezani",
+	"viaRoad": "Nyerere Road",
+	"image" : "https://juku001.github.io/spidergraphics/daladala/bus_images/temekeGerezani.png",
+	"stops" : [
+				"buza kanisa",
+				"kwa osama",
+				"buza hospital",
+				"kalulenge",
+				"kwa mama kibonge",
+				"abiola",
+				"barabara ya mwinyi",
+				"yombo chama",
+				"relini", 
+				"davis corner",
+				"mango",
+				"foma",
+				"magorofani",
+				"bandari",
+				"mwembe yanga",
+				"usalama",
+				"serengeti",
+				"maduka mawili", 
+				"keko",
+				"veta", 
+				"darajani",
+				"gerezani",
 
-		{
-			"id":"198",
-			"routeName":"Buza - Gerezani",
-			"viaRoad": "Nyerere Road",
-			"image" : "https://juku001.github.io/spidergraphics/daladala/bus_images/temekeGerezani.png",
-			"stops":[
-				{
-					"id":1,
-					"name":"Buza Kanisani"
-				},
-				{
-					"id":2,
-					"name":"Kwa osama"
-				},
-				{
-					"id":3,
-					"name":"Kwalulenge"
-				},
-				{
-					"id":4,
-					"name":"Kwa mama Kibonge"
-				},
-				{
-					"id":5,
-					"name":"Abiola"
-				},
+	]
 
-				{
-					"id":6,
-					"name":"barabara ya mwinyi"
-				},
-				{
-					"id":7,
-					"name":"Yombo Dovya"
-				},
-				{
-					"id":8,
-					"name":"Relini"
-				},
-				{
-					"id":9,
-					"name":"Devis Corner"
-				},
-				{
-					"id":10,
-					"name":"Mango"
-				},
-				{
-					"id":11,
-					"name":"Transforma"
-				},
-				{
-					"id":12,
-					"name":"Magorofani"
-				},
-				{
-					"id":13,
-					"name":"Bandari"
-				},
-				{
-					"id":14,
-					"name":"Mwembe Yanga"
-				},
-				{
-					"id":15,
-					"name":"Usalama Chang'ombe"
-				},
-				{
-					"id":16,
-					"name":"Serengeti"
-				},
-				{
-					"id":17,
-					"name":"Maduka Mawili"
-				},
-				{
-					"id":18,
-					"name":"Keko"
-				},
-				{
-					"id":19,
-					"name":"Veta"
-				},
-				{
-					"id":20,
-					"name":"Darajani"
-				},
-				{
-					"id":21,
-					"name":"Gerezani"
-				}
+},
+{
+	"id":"199",
+	"routeName":"Tandika - Gongo la Mboto",
+	"viaRoad": "Nyerere Road",
+	"image" : "https://juku001.github.io/spidergraphics/daladala/bus_images/buzaGoms.png",
+	"stops":[
+			"Tandika",
+			"Davis Corner",
+			"relini ",
+			"yombo chama",
+			"barabara ya mwinyi",
+			"abiola",
+			"kwa mama kibonge",
+			"kalulenge",
+			"buza hospital",
+			"kwa osama",
+			"buza kanisani",
+			"kipela" ,
+			"sweet conna",
+			"mwisho wa rami",
+			"jeti rumo",
+			"airport",
+			"njia panda ya segerea",
+			"banana",
+			"magereza",
+			"ukonga madafu",
+			"mombasa",
+			"gongo la mboto mwisho"
+	]
+},
+{
+	"id":"200",
+	"routeName":"Buza - Mbande Magenge",
+	"viaRoad": "Nyerere Road",
+	"image" : "https://juku001.github.io/spidergraphics/daladala/bus_images/buzaMbande.png",
+	"stops" : [
+
+			"buza kanisa",
+			"kwa osama",
+			"buza hospital",
+			"kalulenge",
+			"kwa mama kibonge",
+			"abiola",
+			"barabara ya mwinyi",
+			"yombo chama",
+			"relini",
+			"davis corner",
+			"tandika",
+			"suddan",
+			"temeke mwisho",
+			"wailes",
+			"kwa azizi ally",
+			"mtongani",
+			"misheni",
+			"sabasaba",
+			"kizuiyani", 
+			"zakhem", 
+			"mbagala rangi tatu",
+			"chalambe magengeni",
+			"kwa mbiku",
+			"maji matitu",
+			"saku",
+			"mzambalauni",
+			"kanisani",
+			"chamanzi magengeni", 
+			"njia panda ya machimbo",
+			"mikumi",
+			"bamia",
+			"azam",
+			"mbande mwisho",	
+
+	]
+
+},
+
+{
+	"id":"201",
+	"routeName":"Tandika - Stesheni",
+	"viaRoad": "Nyerere Road",
+	"image" : "https://juku001.github.io/spidergraphics/daladala/bus_images/tandikaGerezani.png",
+	"stops" : [
+			"tandika",
+			"suddan",
+			"temeke mwisho",
+			"wailes",
+			"kwa azizi ally",
+			"sabasaba",
+			"uhasibu",
+			"jkt ya kwanza",
+			"jkt ya pili",
+			"misheni", 
+			"mivinjeni",
+			"bandari ya kwanza",
+			"majani ya chai",
+			"stesheni",
+
+	]
+},
+
+	{
+		"id":"201",
+		"routeName":"Machinga Complex - Kigamboni",
+		"viaRoad": "Kilwa Road",
+		"image" : "https://juku001.github.io/spidergraphics/daladala/bus_images/machingaKigamboni.png",
+		"stops": [
+
+				"machinga",
+				"majani ya chai", 
+				"bandari",
+				"mivinjeni",
+				"misheni", 
+				"jkt ya pili", 
+				"jkt ya kwanza",
+				"uhasibu",
+				"biashara",
+				"mizani",
+				"darajani", 
+				"nunge",
+				"mbuyuni",
+				"mnadani",
+				"tungi",
+				"kwa mparasinge",
+				"serengeti",
+				"kwa chagani",
+				"ferry", 
 			]
-		},
-		{
-
-			"id":"199",
-			"routeName":"Tandika - Gongo la Mboto",
-			"viaRoad": "Nyerere Road",
-			"image" : "https://juku001.github.io/spidergraphics/daladala/bus_images/buzaGoms.png",
-			"stops":[
-				{
-					"id": 22,
-					"name":"Gongo la Mboto Mwisho"
-				},
-				{
-					"id":23,
-					"name":"Mombasa"
-				},
-				{
-					"id":24,
-					"name":"Ukonga Madafu"
-				},
-				{
-					"id":25,
-					"name":"Magereza"
-				},
-				{
-					"id":26,
-					"name":"Banana"
-				},
-				{
-					"id":27,
-					"name":"Njia panda Segerea"
-				},
-				{
-					"id":28,
-					"name":"Airport"
-				},
-				{
-					"id":29,
-					"name":"Jet Lumo"
-				},
-				{
-					"id":30,
-					"name":"Mwisho wa lami"
-				},
-				{
-					"id":31,
-					"name":"Sweet Corner"
-				},
-				{
-					"id":32,
-					"name":"Kipela"
-				},
-				{
-					"id":1,
-					"name":"Buza Kanisani"
-				},
-				{
-					"id":2,
-					"name":"Kwa osama"
-				},
-				{
-					"id":3,
-					"name":"Kwalulenge"
-				},
-				{
-					"id":4,
-					"name":"Kwa mama Kibonge"
-				},
-				{
-					"id":5,
-					"name":"Abiola"
-				},
-
-				{
-					"id":6,
-					"name":"barabara ya mwinyi"
-				},
-				{
-					"id":7,
-					"name":"Yombo Dovya"
-				},
-				{
-					"id":8,
-					"name":"Relini"
-				},
-				{
-					"id":9,
-					"name":"Devis Corner"
-				},
-				{
-					"id":33,
-					"name":"Tandika"
-				}
-			]
-		},
-		{
-			"id":"200",
-			"routeName":"Buza - Mbande Magenge",
-			"viaRoad": "Nyerere Road",
-			"image" : "https://juku001.github.io/spidergraphics/daladala/bus_images/buzaMbande.png",
-			"stops":[
-				{
-					"id":1,
-					"name":"Buza Kanisani"
-				},
-				{
-					"id":2,
-					"name":"Kwa osama"
-				},
-				{
-					"id":3,
-					"name":"Kwalulenge"
-				},
-				{
-					"id":4,
-					"name":"Kwa mama Kibonge"
-				},
-				{
-					"id":5,
-					"name":"Abiola"
-				},
-
-				{
-					"id":6,
-					"name":"barabara ya mwinyi"
-				},
-				{
-					"id":7,
-					"name":"Yombo Dovya"
-				},
-				{
-					"id":8,
-					"name":"Relini"
-				},
-				{
-					"id":9,
-					"name":"Devis Corner"
-				},
-				{
-					"id":33,
-					"name":"Tandika"
-				},
-				{
-					"id":34,
-					"name":"Sudani"
-				},
-				{
-					"id":35,
-					"name":"Temeke Mwisho"
-				},
-				{
-					"id":36,
-					"name":"Wailes"
-				},
-				{
-					"id":37,
-					"name":"Kwa Aziz Ally"
-				},
-				{
-					"id":38,
-					"name":"Mtongani"
-				},
-				{
-					"id":39,
-					"name":"Mission"
-				},
-				{
-					"id":40,
-					"name":"Saba saba"
-				},
-				{
-					"id":41,
-					"name":"Kizuiani"
-				},
-				{
-					"id":42,
-					"name":"Zakhem"
-				},
-				{
-					"id":43,
-					"name":"Mbagala Rangi Tatu"
-				},
-				{
-					"id":44,
-					"name":"Chalambe Magengeni"
-				},
-				{
-					"id":45,
-					"name":"Kwa mbiku"
-				},
-				{
-					"id":46,
-					"name":"Maji Matitu"
-				},
-				{
-					"id":47,
-					"name":"Saku"
-				},
-				{
-					"id":48,
-					"name":"Mzambarauni"
-				},
-				{
-					"id":49,
-					"name":"Kanisani"
-				},
-				{
-					"id":50,
-					"name":"Chamanzi Magengeni"
-				},
-				{
-					"id":51,
-					"name":"Njiapanda ya Machimbo"
-				},
-				{
-					"id":52,
-					"name":"Mikumi"
-				},
-				{
-					"id":53,
-					"name":"Bamia"
-				},
-				{
-					"id":54,
-					"name":"Azam"
-				},
-				{
-					"id":55,
-					"name":"Mbande Magenge"
-				}
-
-			]
-		},
-		{
-			"id":"201",
-			"routeName":"Tandika - Stesheni",
-			"viaRoad": "Nyerere Road",
-			"image" : "https://juku001.github.io/spidergraphics/daladala/bus_images/tandikaGerezani.png",
-			"stops":[
-				{
-					"id":33,
-					"name":"Tandika"
-				},
-				{
-					"id":34,
-					"name":"Sudani"
-				},
-				{
-					"id":35,
-					"name":"Temeke Mwisho"
-				},
-				{
-					"id":36,
-					"name":"Wailes"
-				},
-				{
-					"id":37,
-					"name":"Kwa Aziz Ally"
-				},
-				{
-					"id":56,
-					"name":"Saba Saba Maonesho"
-				},
-				{
-					"id":57,
-					"name":"Uhasibu"
-				},
-				{
-					"id":58,
-					"name":"JKT"
-				},
-				{
-					"id":59,
-					"name":"Mission Kilwa"
-				},
-				{
-					"id":60,
-					"name":"JKT ya Pili"
-				},
-				{
-					"id":61,
-					"name":"Mivinjeni"
-				},
-				{
-					"id":62,
-					"name":"Bandari"
-				},
-				{
-					"id":63,
-					"name":"Majani ya Chai"
-				},
-				{
-					"id":64,
-					"name":"Stesheni"
-				}
-
-
-			]
-		},
-		{
-			"id":"201",
-			"routeName":"Machinga Complex - Kigamboni",
-			"viaRoad": "Kilwa Road",
-			"image" : "https://juku001.github.io/spidergraphics/daladala/bus_images/machingaKigamboni.png",
-			"stops":[
-				{
-					"id":65,
-					"name":"Kigamboni"
-				},
-				{
-					"id":66,
-					"name":"Chagani"
-				},
-				{
-					"id":67,
-					"name":"Serengeti"
-				},
-				{
-					"id":68,
-					"name":"Sido"
-				},
-				{
-					"id":69,
-					"name":"Mnadani"
-				},
-				{
-					"id":70,
-					"name":"Mbuyuni"
-				},
-				{
-					"id":71,
-					"name":"Nunge"
-				},
-				{
-					"id":72,
-					"name":"Darajani"
-				},
-				{
-					"id":57,
-					"name":"Uhasibu"
-				},
-				{
-					"id":58,
-					"name":"JKT"
-				},
-				{
-					"id":59,
-					"name":"Mission Kilwa"
-				},
-				{
-					"id":60,
-					"name":"JKT ya Pili"
-				},
-				{
-					"id":61,
-					"name":"Mivinjeni"
-				},
-				{
-					"id":62,
-					"name":"Bandari"
-				},
-				{
-					"id":63,
-					"name":"Majani ya Chai"
-				},
-				{
-					"id":21,
-					"name":"Gerezani"
-				},
-				{
-					"id":64,
-					"name":"Machinga Complex"
-				}
-
-			]
-		}
-
+	}
 ]
