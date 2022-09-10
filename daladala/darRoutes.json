@@ -4,7 +4,7 @@
 	"routeName":"Buza - Gerezani",
 	"viaRoad": "Nyerere Road",
 	"image" : "https://juku001.github.io/spidergraphics/daladala/bus_images/temekeGerezani.png",
-	"stops" : [
+	"stops" : {
 				"Buza Kanisani",
 				"kwa osama",
 				"buza hospital",
@@ -28,7 +28,7 @@
 				"darajani",
 				"gerezani"
 
-	]
+	}
 
 },
 {
@@ -36,7 +36,7 @@
 	"routeName":"Tandika - Gongo la Mboto",
 	"viaRoad": "Nyerere Road",
 	"image" : "https://juku001.github.io/spidergraphics/daladala/bus_images/buzaGoms.png",
-	"stops":[
+	"stops":{
 			"Tandika",
 			"Davis Corner",
 			"relini ",
@@ -59,14 +59,14 @@
 			"ukonga madafu",
 			"mombasa",
 			"gongo la mboto mwisho"
-	]
+	}
 },
 {
 	"id":"200",
 	"routeName":"Buza - Mbande Magenge",
 	"viaRoad": "Nyerere Road",
 	"image" : "https://juku001.github.io/spidergraphics/daladala/bus_images/buzaMbande.png",
-	"stops" : [
+	"stops" : {
 
 			"buza kanisa",
 			"kwa osama",
@@ -102,7 +102,7 @@
 			"azam",
 			"mbande mwisho"	
 
-	]
+	}
 
 },
 
@@ -111,7 +111,7 @@
 	"routeName":"Tandika - Stesheni",
 	"viaRoad": "Nyerere Road",
 	"image" : "https://juku001.github.io/spidergraphics/daladala/bus_images/tandikaGerezani.png",
-	"stops" : [
+	"stops" : {
 			"tandika",
 			"suddan",
 			"temeke mwisho",
@@ -127,7 +127,7 @@
 			"majani ya chai",
 			"stesheni"
 
-	]
+	}
 },
 
 	{
@@ -135,7 +135,7 @@
 		"routeName":"Machinga Complex - Kigamboni",
 		"viaRoad": "Kilwa Road",
 		"image" : "https://juku001.github.io/spidergraphics/daladala/bus_images/machingaKigamboni.png",
-		"stops": [
+		"stops": {
 
 				"machinga",
 				"majani ya chai", 
@@ -156,6 +156,6 @@
 				"serengeti",
 				"kwa chagani",
 				"ferry" 
-			]
+		}
 	}
 ]
