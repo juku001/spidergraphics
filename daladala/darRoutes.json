@@ -819,19 +819,5 @@
             "Toa Ngoma Saku",
             "Toa Ngoma Mwisho"
         ]
-    },
-    {
-        "id": "35",
-        "routeName": "Kigamboni - Buyuni",
-        "viaRoad": "Mji Mwema, K\/Isike, Kwa Urasa",
-        "image": "https:\/\/juku001.github.io\/spidergraphics\/daladala\/bus_images\/kigaBuyuni.png",
-        "stops": []
-    },
-    {
-        "id": "36",
-        "routeName": "Kigamboni - Cheka",
-        "viaRoad": "Mji Mwema,K\/Isike",
-        "image": "https:\/\/juku001.github.io\/spidergraphics\/daladala\/bus_images\/kigaCheka.png",
-        "stops": []
     }
 ]
