@@ -1,1 +1,33 @@
+[
+    {
+      "id": 1,
+      "abbr":"HELSB",
+      "name": "Higher Education Students' Loans Board",
+      "address": "P.O BOX 76068",
+      "mobile": "+255 22 286 4643",
+      "email": "info@heslb@go.tz",
+      "location": "1 Kilimo Street,Tazara Area,Mandela Road",
+      "busStop": "Vetenary"
+    },
+    {
+      "id": 2,
+      "abbr":"LATRA",
+      "name": "Land Transport Regulatory Authority",
+      "address": "P.O BOX 3093",
+      "mobile": "0800 11 0020",
+      "email": "info@latra.go.tz",
+      "location": "Nkurumah street,near Clock Tower",
+      "busStop": "Mnazi Mmoja"
+    },
+    {
+      "id": 3,
+      "abbr":"IFM",
+      "name": "Institute of Finance Management",
+      "address": "P.O BOX 3918",
+      "mobile": "+255 22 2112931",
+      "email": "rector@ifm.ac.tz",
+      "location": "5 Shaaban Robert Street",
+      "busStop": "Kivukoni"
+    },
+]
 
