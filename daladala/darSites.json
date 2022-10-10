@@ -1,6 +1,6 @@
 [
     {
-        "id": "20",
+       
         "abbr": "HESLB",
         "name": "Higher Education Students Loans Board",
         "email": "info@heslb.go.tz",
@@ -10,7 +10,7 @@
         "busStop": "Vetenary"
     },
     {
-        "id": "8",
+        
         "abbr": "IFM",
         "name": "Institute of Finance Management",
         "email": "rector@ifm.ac.tz",
@@ -20,7 +20,7 @@
         "busStop": "Kivukoni Ferry"
     },
     {
-        "id": "19",
+       
         "abbr": "JKYP",
         "name": "Jakaya M Kikwete Youth Park",
         "email": "info@jmkpark.org",
@@ -30,7 +30,7 @@
         "busStop": "Mnazi Mmoja"
     },
     {
-        "id": "9",
+       
         "abbr": "LATRA",
         "name": "Land Transport Regulatory Authority",
         "email": "info@latra.go.tz",
@@ -40,7 +40,7 @@
         "busStop": "Mnazi Mmoja"
     },
     {
-        "id": "14",
+       
         "abbr": "KMC",
         "name": "Manispaa ya Kinondoni",
         "email": "md@kindondonimc.go.tz",
@@ -50,7 +50,7 @@
         "busStop": "Magomeni Kanisani"
     },
     {
-        "id": "12",
+       
         "abbr": "TMC",
         "name": "Manispaa ya Temeke",
         "email": "temeke@temekemc.go.tz",
@@ -60,7 +60,7 @@
         "busStop": "Uhasibu"
     },
     {
-        "id": "21",
+       
         "abbr": "RITA",
         "name": "Registration Insolvency and Trusteeship Agency",
         "email": "info@rita.go.tz",
@@ -70,7 +70,7 @@
         "busStop": "Posta Mpya"
     },
     {
-        "id": "18",
+        
         "abbr": "TIA",
         "name": "Tanzania Institute of Accountancy",
         "email": "tia@tia.ac.tz",
@@ -80,7 +80,7 @@
         "busStop": "Uhasibu"
     },
     {
-        "id": "15",
+       
         "abbr": "TPA",
         "name": "Tanzania Ports Authority",
         "email": "dg@ports.go.tz",
@@ -90,7 +90,7 @@
         "busStop": "Bandari ya Kwanza"
     },
     {
-        "id": "17",
+      
         "abbr": "TTCL",
         "name": "Tanzania Telecommunications Company Limited",
         "email": "info@ttcl.co.tz",
@@ -100,7 +100,7 @@
         "busStop": "Stesheni"
     },
     {
-        "id": "16",
+       
         "abbr": "TVLA",
         "name": "Tanzania Veterinary Laboratory Agency",
         "email": "info@tvla.go.tz",
@@ -110,7 +110,7 @@
         "busStop": "Vetenary"
     },
     {
-        "id": "10",
+        
         "abbr": "MNMA",
         "name": "The Mwalimu Nyerere Memorial Academy",
         "email": "rector@mnma.ac.tz",
