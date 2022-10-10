@@ -1,6 +1,6 @@
 [
     {
-        "id": "8",
+        "id": 8,
         "abbr": "IFM",
         "name": "Institute of Finance Management",
         "email": "rector@ifm.ac.tz",
@@ -10,7 +10,7 @@
         "busStop": "Kivukoni Ferry"
     },
     {
-        "id": "9",
+        "id": 9,
         "abbr": "LATRA",
         "name": "Land Transport Regulatory Authority",
         "email": "info@latra.go.tz",
@@ -20,7 +20,7 @@
         "busStop": "Mnazi Mmoja"
     },
     {
-        "id": "10",
+        "id": 10,
         "abbr": "MNMA",
         "name": "The Mwalimu Nyerere Memorial Academy",
         "email": "rector@mnma.ac.tz",
