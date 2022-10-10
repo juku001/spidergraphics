@@ -1,33 +1,122 @@
 [
     {
-      "id": 1,
-      "abbr":"HELSB",
-      "name": "Higher Education Students' Loans Board",
-      "address": "P.O BOX 76068",
-      "mobile": "+255 22 286 4643",
-      "email": "info@heslb@go.tz",
-      "location": "1 Kilimo Street,Tazara Area,Mandela Road",
-      "busStop": "Vetenary"
+        "id": "20",
+        "abbr": "HESLB",
+        "name": "Higher Education Students Loans Board",
+        "email": "info@heslb.go.tz",
+        "mobile": "+255 22 286 4643",
+        "address": "PO BOX 76068",
+        "location": "1 Kilimo Street,Tazara Area,Mandela Road",
+        "busStop": "Vetenary"
     },
     {
-      "id": 2,
-      "abbr":"LATRA",
-      "name": "Land Transport Regulatory Authority",
-      "address": "P.O BOX 3093",
-      "mobile": "0800 11 0020",
-      "email": "info@latra.go.tz",
-      "location": "Nkurumah street,near Clock Tower",
-      "busStop": "Mnazi Mmoja"
+        "id": "8",
+        "abbr": "IFM",
+        "name": "Institute of Finance Management",
+        "email": "rector@ifm.ac.tz",
+        "mobile": "+255 22 2112931",
+        "address": "PO BOX 3918",
+        "location": "5 Shaaban Robert Street",
+        "busStop": "Kivukoni Ferry"
     },
     {
-      "id": 3,
-      "abbr":"IFM",
-      "name": "Institute of Finance Management",
-      "address": "P.O BOX 3918",
-      "mobile": "+255 22 2112931",
-      "email": "rector@ifm.ac.tz",
-      "location": "5 Shaaban Robert Street",
-      "busStop": "Kivukoni"
+        "id": "19",
+        "abbr": "JKYP",
+        "name": "Jakaya M Kikwete Youth Park",
+        "email": "info@jmkpark.org",
+        "mobile": "+255 222 183 491",
+        "address": "PO BOX",
+        "location": "Makamba Street, across from the Sikh Temple",
+        "busStop": "Mnazi Mmoja"
+    },
+    {
+        "id": "9",
+        "abbr": "LATRA",
+        "name": "Land Transport Regulatory Authority",
+        "email": "info@latra.go.tz",
+        "mobile": "0800 11 0020",
+        "address": "PO BOX 3093",
+        "location": "Nkurumah Street near Clock Tower",
+        "busStop": "Mnazi Mmoja"
+    },
+    {
+        "id": "14",
+        "abbr": "KMC",
+        "name": "Manispaa ya Kinondoni",
+        "email": "md@kindondonimc.go.tz",
+        "mobile": "+255 22 2172606",
+        "address": "PO BOX 31902",
+        "location": "2 Barabara ya Morogoro",
+        "busStop": "Magomeni Kanisani"
+    },
+    {
+        "id": "12",
+        "abbr": "TMC",
+        "name": "Manispaa ya Temeke",
+        "email": "temeke@temekemc.go.tz",
+        "mobile": "+255 22 2928132",
+        "address": "PO BOX 46343",
+        "location": "Opposite na Uwanja wa Taifa",
+        "busStop": "Uhasibu"
+    },
+    {
+        "id": "21",
+        "abbr": "RITA",
+        "name": "Registration Insolvency and Trusteeship Agency",
+        "email": "info@rita.go.tz",
+        "mobile": "+255 (22) 2924180\/181",
+        "address": "PO BOX 9183",
+        "location": "RITA Tower, Mtaa wa 4 Simu ",
+        "busStop": "Posta Mpya"
+    },
+    {
+        "id": "18",
+        "abbr": "TIA",
+        "name": "Tanzania Institute of Accountancy",
+        "email": "tia@tia.ac.tz",
+        "mobile": "+25576477774",
+        "address": "PO BOX 2522",
+        "location": "Kilwa\/Nelson Mandela Road",
+        "busStop": "Uhasibu"
+    },
+    {
+        "id": "15",
+        "abbr": "TPA",
+        "name": "Tanzania Ports Authority",
+        "email": "dg@ports.go.tz",
+        "mobile": "+255 211 7816",
+        "address": "PO BOX 9184",
+        "location": "Kilwa Road",
+        "busStop": "Bandari ya Kwanza"
+    },
+    {
+        "id": "17",
+        "abbr": "TTCL",
+        "name": "Tanzania Telecommunications Company Limited",
+        "email": "info@ttcl.co.tz",
+        "mobile": "+255 22 214 2000",
+        "address": "PO BOX 9070",
+        "location": "ExtelComs House,Samora Avenue",
+        "busStop": "Stesheni"
+    },
+    {
+        "id": "16",
+        "abbr": "TVLA",
+        "name": "Tanzania Veterinary Laboratory Agency",
+        "email": "info@tvla.go.tz",
+        "mobile": "+255 22 2861152",
+        "address": "PO BOX 9254",
+        "location": "Veterinary Complex,Mandela Road",
+        "busStop": "Vetenary"
+    },
+    {
+        "id": "10",
+        "abbr": "MNMA",
+        "name": "The Mwalimu Nyerere Memorial Academy",
+        "email": "rector@mnma.ac.tz",
+        "mobile": "+255 (22) 2820041",
+        "address": "PO BOX 9193",
+        "location": "Kivukoni, Dar es Salaam",
+        "busStop": "Kigamboni Ferry"
     }
 ]
-
