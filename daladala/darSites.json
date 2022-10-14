@@ -5,7 +5,7 @@
         "name": "City Mall",
         "email": "gm@citymall.co.tz",
         "mobile": "+255 677 009 558",
-        "address": "",
+        "address": "N\/A",
         "location": "Morogoro Road \/ Bibititi corner",
         "busStop": "Akiba Chuo cha CBE"
     },
@@ -23,9 +23,9 @@
         "id": 22,
         "abbr": "",
         "name": "Holiday Inn",
-        "email": "",
+        "email": "reservations@holidayinn.co.tz",
         "mobile": "1 877 424 2449",
-        "address": "",
+        "address": "N\/A",
         "location": "Azikiwe Street\/ Upanga Road Jct",
         "busStop": "Posta Mpya"
     },
@@ -55,7 +55,7 @@
         "name": "Jangwani Seabreeze Resort",
         "email": "reservations@jangwaniseabreezeresort.co.tz",
         "mobile": "+255 786 800 870",
-        "address": "",
+        "address": "N\/A",
         "location": "African Road Mbezi Beach",
         "busStop": "Africana"
     },
@@ -75,7 +75,7 @@
         "name": "Las Vegas Casino",
         "email": "info@lasvegas.co.tz",
         "mobile": "+423 377 44 77",
-        "address": "",
+        "address": "N\/A",
         "location": "Ali Hassan Mwinyi Road",
         "busStop": "Palm Beach"
     },
@@ -115,7 +115,7 @@
         "name": "Peacock Hotel",
         "email": "reservation@peacock-hotel.co.tz",
         "mobile": "+255 713 559 627 |",
-        "address": "",
+        "address": "N\/A",
         "location": "Bibi Titi Mohamed Road",
         "busStop": "Baridi"
     },
