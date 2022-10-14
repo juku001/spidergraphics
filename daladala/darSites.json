@@ -1,5 +1,15 @@
 [
     {
+        "id": 26,
+        "abbr": "",
+        "name": "City Mall",
+        "email": "gm@citymall.co.tz",
+        "mobile": "+255 677 009 558",
+        "address": "",
+        "location": "Morogoro Road \/ Bibititi corner",
+        "busStop": "Akiba Chuo cha CBE"
+    },
+    {
         "id": 20,
         "abbr": "HESLB",
         "name": "Higher Education Students Loans Board",
@@ -8,6 +18,16 @@
         "address": "PO BOX 76068",
         "location": "1 Kilimo Street,Tazara Area,Mandela Road",
         "busStop": "Vetenary"
+    },
+    {
+        "id": 22,
+        "abbr": "",
+        "name": "Holiday Inn",
+        "email": "",
+        "mobile": "1 877 424 2449",
+        "address": "",
+        "location": "Azikiwe Street\/ Upanga Road Jct",
+        "busStop": "Posta Mpya"
     },
     {
         "id": 8,
@@ -30,6 +50,16 @@
         "busStop": "Mnazi Mmoja"
     },
     {
+        "id": 23,
+        "abbr": "",
+        "name": "Jangwani Seabreeze Resort",
+        "email": "reservations@jangwaniseabreezeresort.co.tz",
+        "mobile": "+255 786 800 870",
+        "address": "",
+        "location": "African Road Mbezi Beach",
+        "busStop": "Africana"
+    },
+    {
         "id": 9,
         "abbr": "LATRA",
         "name": "Land Transport Regulatory Authority",
@@ -38,6 +68,16 @@
         "address": "PO BOX 3093",
         "location": "Nkurumah Street near Clock Tower",
         "busStop": "Mnazi Mmoja"
+    },
+    {
+        "id": 25,
+        "abbr": "",
+        "name": "Las Vegas Casino",
+        "email": "info@lasvegas.co.tz",
+        "mobile": "+423 377 44 77",
+        "address": "",
+        "location": "Ali Hassan Mwinyi Road",
+        "busStop": "Palm Beach"
     },
     {
         "id": 14,
@@ -58,6 +98,26 @@
         "address": "PO BOX 46343",
         "location": "Opposite na Uwanja wa Taifa",
         "busStop": "Uhasibu"
+    },
+    {
+        "id": 24,
+        "abbr": "NA",
+        "name": "New Africa Hotel",
+        "email": "fom@newafricahotel.com",
+        "mobile": "+255 677 023 236",
+        "address": "PO BOX 9314",
+        "location": "Azikiwe Street Dar Es Salaam TZ, 9314",
+        "busStop": "Posta Mpya"
+    },
+    {
+        "id": 27,
+        "abbr": "",
+        "name": "Peacock Hotel",
+        "email": "reservation@peacock-hotel.co.tz",
+        "mobile": "+255 713 559 627 |",
+        "address": "",
+        "location": "Bibi Titi Mohamed Road",
+        "busStop": "Baridi"
     },
     {
         "id": 21,
