@@ -841,7 +841,7 @@
             "Mbagala Kuu",
             "Kichemchem",
             "Maposeo",
-            "Mbezi Mikoroshini",
+            "Mbagala Mikoroshini",
             "Maduka Tisa",
             "Zakhiem"
         ]
@@ -899,7 +899,7 @@
             "Mbagala Kuu",
             "Kichemchem",
             "Maposeo",
-            "Mbezi Mikoroshini",
+            "Mbagala Mikoroshini",
             "Maduka Tisa",
             "Zakhiem"
         ]
@@ -1678,6 +1678,24 @@
             "Riverside",
             "Ubungo Maji",
             "Simu 2000 "
+        ]
+    },
+    {
+        "id": "89",
+        "routeName": "Tandika - Kwa Mpalange",
+        "viaRoad": "Buza",
+        "image": "https:\/\/juku001.github.io\/spidergraphics\/daladala\/bus_images\/temekeMpalange.png",
+        "stops": [
+            "Tandika",
+            "Davis Corner",
+            "Yombo Relini",
+            "Yombo Chama",
+            "Barabara ya Mwinyi",
+            "Abiola",
+            "Kwa Mama Kibonge",
+            "Njiapanda ya Mpalange",
+            "Kanisani Palestina",
+            "Kwa Mpalange Mwisho"
         ]
     },
     {
