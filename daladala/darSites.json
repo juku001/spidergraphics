@@ -178,5 +178,15 @@
         "address": "PO BOX 9193",
         "location": "Kivukoni, Dar es Salaam",
         "busStop": "Kigamboni Ferry"
+    },
+    {
+        "id": 28,
+        "abbr": "WCB",
+        "name": "Wasafi Media",
+        "email": "info@wasafimedia.com",
+        "mobile": "+255 742 222111",
+        "address": "PO BOX 31513",
+        "location": "Mbezi Beach, Dar es salaam",
+        "busStop": "Mbezi Beach Shule"
     }
 ]
