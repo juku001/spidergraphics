@@ -1,0 +1,22 @@
+[
+    {        
+        "name": "Health",
+        "image": "https:\/\/juku001.github.io\/spidergraphics\/sokomart\/categories\/healt.png",
+    },
+    {        
+        "name": "Entertainment and News",
+        "image": "https:\/\/juku001.github.io\/spidergraphics\/sokomart\/categories\/enternews.png",
+    },
+    {        
+        "name": "Finances",
+        "image": "https:\/\/juku001.github.io\/spidergraphics\/sokomart\/categories\/finances.jpg",
+    },
+    {        
+        "name": "Hospitality and Tourism",
+        "image": "https:\/\/juku001.github.io\/spidergraphics\/sokomart\/categories\/leisure.jpg",
+    },
+    {        
+        "name": "Transportation",
+        "image": "https:\/\/juku001.github.io\/spidergraphics\/sokomart\/categories\/transport.jpg",
+    },
+]
