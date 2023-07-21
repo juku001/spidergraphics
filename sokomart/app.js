@@ -17,7 +17,7 @@ app.get('/subscription-plans', async (req, res) => {
       'https://api.flutterwave.com/v3/subscriptions/plans',
       {
         headers: {
-          Authorization: `Bearer ${secretKey}`,
+          Authorization: `Bearer ${publicKey},${secretKey}`,
         },
       }
     );
