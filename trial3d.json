@@ -1,19 +1,25 @@
 {
-  "-4345435jlfdfo4j53":{
+  {
+  "id":"239jsdfsdfssfsf",
+  "subject":"Biology",
+  "prototype":{
+
+    "-4345435jlfdfo4j53":{
 "name":"Bee",
 "obj":"https://juku001.github.io/spidergraphics/Bee.glb",
     "image":"https://cdn.britannica.com/78/192578-138-DC7C6A32/conservation-efforts-bee-populations-plant-animal-species.jpg?w=800&h=450&c=crop"
 },
 
 "-3l4j533lfdfo4j53":{
-"name":"Ball",
+"name":"Human Body",
 "obj":"https://juku001.github.io/spidergraphics/ball.glb",
-  "image":"https://cdn.britannica.com/68/195168-050-BBAE019A/football.jpg"
+  "image":"https://img.freepik.com/premium-vector/human-body-parts-medical-diagram-with-male-model-vector-poster-blue-background_261737-1220.jpg"
 },
 "-4aae435jlfdfo4j53":{
 "name":"DNA",
 "obj":"https://juku001.github.io/spidergraphics/dna.fbx",
   "image":"https://medlineplus.gov/images/PX000098_PRESENTATION.jpeg"
 }
-
+  }
+    }
 }
