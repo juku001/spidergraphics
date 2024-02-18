@@ -24,7 +24,18 @@
    ],
    "twoD":[
       {
-         "id":"olherljdiosdf"
+         "id":"olherljdiosdf",
+         "title":"Effect of Arteriosclerois",
+         "decription":"Arteriosclerosis is a type of vascular disease where the blood vessels carrying oxygen away from the heart (arteries) become damaged from factors such as high cholesterol, high blood pressure, diabetes and certain genetic influences.",
+         "image":"https://smartdarasa.com/pages/assets/img/portfolio/exp/transport_materials_mammals_01.PNG",
+         "src":"https://juku001.github.io/spidergraphics/smartdarasa/transport_materials_mammals_01.gif"
+      },
+      {
+         "id":"olherljerewdf",
+         "title":"Normal and Sicled Red Blood Cells",
+         "decription":"Hemoglobin S is an abnormal form of hemoglobin that causes the red cells to become rigid, and sickle shaped. This is commonly called sickle cell anemia and is usually the most severe form of the disease.",
+         "image":"https://smartdarasa.com/pages/assets/img/portfolio/exp/transport_materials_mammals_02.PNG",
+         "src":"https://juku001.github.io/spidergraphics/smartdarasa/transport_materials_mammals_02.gif"
       }
    ]
 }
