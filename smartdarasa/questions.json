@@ -12,6 +12,22 @@
 "Benzene"
 ]
 },
+
+{
+  "_id":"323ousdjdsuofu33023jdsd",
+  "topic":"65e07cdb5da7b9a8c397ac00",
+  "questionNumber":1,
+  "question":"The force between two charges is 120 N. If the distance between the charges is doubled,
+the force will be",
+"correct":"30 N",
+  "others":[
+    "10 N",
+    "60 N",
+    "20 N"
+  ]
+},
+
+  
 {
   "_id":"43jousdr9sdjfdsfd45ff3",
 "topic":"65df24e56cb97ff4aa5ee8b5",
