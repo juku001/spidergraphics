@@ -2,10 +2,10 @@
 {
   "_id":"43jousdr9sdjfdsfosde43",
   "questionNumber":1,
-"topic":"65df24e56cb97ff4aa5ee8b5",
+"topic":"65e7e2c89331c83ebd8284b6",
 "question":"Which of the following is the simplest member of organic compounds?",
-"correct":"Methane",
-"others":[
+"answer":"Methane",
+"choices":[
 "Methanol",
 "Formaldehyde",
 "Formic acid",
@@ -15,11 +15,12 @@
 
 {
   "_id":"323ousdjdsuofu33023jdsd",
-  "topic":"65e07cdb5da7b9a8c397ac00",
-  "questionNumber":1,
+  "topic":"65e7e2c89331c83ebd8284b6",
+  "questionNumber":4,
   "question":"The force two charges is 120 N. If the distance from the targets is doubled,what would be the force ?",
-"correct":"30 N",
-  "others":[
+"answer":"30 N",
+  "choices":[
+    "30 N",
     "10 N",
     "60 N",
     "20 N"
@@ -29,11 +30,12 @@
   
 {
   "_id":"43jousdr9sdjfdsfd45ff3",
-"topic":"65df24e56cb97ff4aa5ee8b5",
+"topic":"65e7e2c89331c83ebd8284b6",
   "questionNumber":2,
 "question":"Which of the following is the known name for the reaction given below?",
-"correct":"Buchwald-Hartwig Reaction",
-"others":[
+"answer":"Buchwald-Hartwig Reaction",
+"choices":[
+  "Buchwald-Hartwig Reaction",
 "Ullmann reaction",
 "Gabriel phthalimide synthesis",
 "Chan-Lam coupling"
@@ -43,11 +45,12 @@
 {
   "_id":"43jousdr9sdefgsfosde43",
   "questionNumber":3,
-"topic":"65df24e56cb97ff4aa5ee8b5",
+"topic":"65e7e2c89331c83ebd8284b6",
 "question":"Hydrocarbons are organic compounds with element __________",
-"correct":"Both hydrogen and carbon",
-"others":[
+"answer":"Both hydrogen and carbon",
+"choices":[
 "Carbon",
+  "Both hydrogen and carbon",
 "Hydrogen",
 "Oxygen",
 "Nitrogen"
