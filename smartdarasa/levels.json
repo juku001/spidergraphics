@@ -1,0 +1,74 @@
+[
+
+{
+    "_id":"this234jssedfdjsd4343",
+    "isActive":true,
+    "isDeleted":false,
+    "name":"Form One",
+    "syllabus":"NECTA",
+    "createdAt":"2024-03-17 15:08:06.392933",
+    "updatedAt":"2024-03-17 15:08:06.392933",
+    "__v":1
+},
+  {
+    "_id":"this234j423dfdjsd4343",
+    "isActive":true,
+    "isDeleted":false,
+    "name":"Form Two",
+    "syllabus":"NECTA",
+    "createdAt":"2024-03-17 15:08:06.392933",
+    "updatedAt":"2024-03-17 15:08:06.392933",
+    "__v":1
+},
+  {
+    "_id":"this234j4323fdjsd4343",
+    "isActive":true,
+    "isDeleted":false,
+    "name":"Form Three",
+    "syllabus":"NECTA",
+    "createdAt":"2024-03-17 15:08:06.392933",
+    "updatedAt":"2024-03-17 15:08:06.392933",
+    "__v":1
+},
+  {
+    "_id":"this234j3422d4343",
+    "isActive":true,
+    "isDeleted":false,
+    "name":"Form Four",
+    "syllabus":"NECTA",
+    "createdAt":"2024-03-17 15:08:06.392933",
+    "updatedAt":"2024-03-17 15:08:06.392933",
+    "__v":1
+},
+  {
+    "_id":"this234j4343fdjsd4343",
+    "isActive":true,
+    "isDeleted":false,
+    "name":"Form Five",
+    "syllabus":"NECTA",
+    "createdAt":"2024-03-17 15:08:06.392933",
+    "updatedAt":"2024-03-17 15:08:06.392933",
+    "__v":1
+},
+  {
+    "_id":"this234j4343feww4343",
+    "isActive":true,
+    "isDeleted":false,
+    "name":"Lower Class",
+    "syllabus":"Cambridge",
+    "createdAt":"2024-03-17 15:08:06.392933",
+    "updatedAt":"2024-03-17 15:08:06.392933",
+    "__v":1
+},
+  {
+    "_id":"this234j4343fhkjg4343",
+    "isActive":true,
+    "isDeleted":false,
+    "name":"Upper Class",
+    "syllabus":"Cambridge",
+    "createdAt":"2024-03-17 15:08:06.392933",
+    "updatedAt":"2024-03-17 15:08:06.392933",
+    "__v":1
+}
+  
+]
