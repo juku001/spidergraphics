@@ -10,8 +10,8 @@
     "isDeleted":false,
     "name":"Chemistry",
     "syllabus":"NECTA",
-    "createdAt":"2024 Mar 17 14:26:10",
-    "updatedAt":"2024 Mar 17 14:26:10",
+    "createdAt":"2024-03-17 15:08:06.392933",
+    "updatedAt":"2024-03-17 15:08:06.392933",
     "__v":"1"
 },
     "level" : {
@@ -20,8 +20,8 @@
     "isDeleted":false,
     "name":"Form 5",
     "syllabus":"NECTA",
-    "createdAt":"2024 Mar 17 14:26:10",
-    "updatedAt":"2024 Mar 17 14:26:10",
+    "createdAt":"2024-03-17 15:08:06.392933",
+    "updatedAt":"2024-03-17 15:08:06.392933",
     "__v":"1"
 },
     "syllabus" : "NECTA",
@@ -44,8 +44,8 @@
     		"content":"The property of carbon that makes it unique is its ability to form bonds with itself and therefore allows a large number of organic chemicals with many diverse properties. Carbon has the property of forming single, double and triple bonds with itself and with other atoms. This multiple bond ability allows carbon compounds to have a variety of shapes. In all carbon compounds, carbon forms four bonds. The types of bonds used by the carbon atom are known as sigma ( ) and pi ( ) bonds. Different combinations of these bonds lead to carbon single bonds, double bonds and triple bonds."
     	}
     ],
-        "createdAt":"2024 Mar 17 14:26:10",
-    "updatedAt":"2024 Mar 17 14:26:10",
+    "createdAt":"2024-03-17 15:08:06.392933",
+    "updatedAt":"2024-03-17 15:08:06.392933",
   "__v":"1"
 }
 
