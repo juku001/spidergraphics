@@ -18,7 +18,7 @@
     "_id":"this234j4343fdjsd4343",
     "isActive":true,
     "isDeleted":false,
-    "name":"Form 5",
+    "name":"Form Five",
     "syllabus":"NECTA",
     "createdAt":"2024-03-17 15:08:06.392933",
     "updatedAt":"2024-03-17 15:08:06.392933",
@@ -26,7 +26,7 @@
 },
     "syllabus" : "NECTA",
     "isFeatured":false,
-    "coverImageUrl":"https://static.kanopy.com/cdn-cgi/image/fit=cover,height=540,width=960/https://static-assets.kanopy.com/video-images/777100f4-ede1-4b5d-80d7-ee2dc3e385eb.jpg",
+    "coverImageUrl":"https://learnt.io/blog/content/images/2023/10/Organic-Chemistry.jpg",
     "descriptions" : "Organic chemistry is a branch of chemistry that focuses on the study of carbon-based compounds, which are essential building blocks of life. In this field, chemists investigate the structure, properties, composition, and reactions of organic molecules, ranging from simple hydrocarbons to complex biomolecules found in living organisms. Organic chemistry plays a vital role in various scientific disciplines, including medicine, pharmacology, biochemistry, agriculture, and materials science, offering insights into the synthesis, manipulation, and understanding of organic compounds. Through the exploration of organic chemistry, researchers aim to unravel the mysteries of molecular structure and function, paving the way for advancements in drug development, sustainable technologies, and environmental conservation.At its core, organic chemistry seeks to unravel the intricate relationships between molecular structure and chemical behavior, providing a framework for understanding the complex world of carbon-based compounds. By studying the mechanisms of organic reactions, the diversity of functional groups, and the principles of organic synthesis, scientists gain valuable insights into the molecular processes underlying biological systems and chemical transformations. Organic chemistry serves as a cornerstone of modern science, driving innovation and discovery across a wide range of disciplines and offering profound implications for human health, technological advancement, and the sustainable utilization of natural resources.",
     "chapters":[
     	{
