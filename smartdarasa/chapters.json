@@ -1,0 +1,16 @@
+[
+    	{
+    		"_id":"lsdfjou435ewrr",
+    		"name":"The chemical Bond",
+    		"topic":"lsdllu328432432ju434",
+    		"chapterNo":"1",
+    		"content":"The atomic theory of electrons began in the early 1900s and gained acceptance around 1926 after Heisenberg and Schroedinger found mathematical solutions to the electronic energy levels found in atoms, the field is now called quantum mechanics. Electrons exist in energy levels that surround the nucleus of the atom. The energy of these levels increases as they get farther from the nucleus. The energy levels are called shells, and within these shells are other energy levels, called subshells or orbitals., that contain up to two electrons. The calculations from atomic theory give the following results for electron energy and orbitals. The results for the first two energy levels (shells 1 and 2) are the most important for bonding in organic chemistry."
+    	},
+    	    	{
+    		"_id":"lsdfjou43d4sde",
+    		"name":"Bonding in Carbon Compounds",
+    		"topic":"lsdllu328432432ju434",
+    		"chapterNo":"2",
+    		"content":"The property of carbon that makes it unique is its ability to form bonds with itself and therefore allows a large number of organic chemicals with many diverse properties. Carbon has the property of forming single, double and triple bonds with itself and with other atoms. This multiple bond ability allows carbon compounds to have a variety of shapes. In all carbon compounds, carbon forms four bonds. The types of bonds used by the carbon atom are known as sigma ( ) and pi ( ) bonds. Different combinations of these bonds lead to carbon single bonds, double bonds and triple bonds."
+    	}
+    ]
