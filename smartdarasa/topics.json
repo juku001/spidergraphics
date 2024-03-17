@@ -26,7 +26,7 @@
 },
     "syllabus" : "NECTA",
     "isFeatured":false,
-    "coverImageUrl":"https://learnt.io/blog/content/images/2023/10/Organic-Chemistry.jpg",
+    "thumbnail":"https://learnt.io/blog/content/images/2023/10/Organic-Chemistry.jpg",
     "descriptions" : "Organic chemistry is a branch of chemistry that focuses on the study of carbon-based compounds, which are essential building blocks of life. In this field, chemists investigate the structure, properties, composition, and reactions of organic molecules, ranging from simple hydrocarbons to complex biomolecules found in living organisms. Organic chemistry plays a vital role in various scientific disciplines, including medicine, pharmacology, biochemistry, agriculture, and materials science, offering insights into the synthesis, manipulation, and understanding of organic compounds.",
     "chapters":[
     	{
@@ -77,7 +77,7 @@
 },
     "syllabus" : "NECTA",
     "isFeatured":true,
-    "coverImageUrl":"https://www.easyelimu.com/images/highschoolnotes/biology/form_3/flower_structure.PNG",
+    "thumbnail":"https://www.easyelimu.com/images/highschoolnotes/biology/form_3/flower_structure.PNG",
     "descriptions" : "Reproduction is the ability of living organisms to form new individuals of the same species from those already in existence. Here, the new organisms replace those that have died and so life continues. It can also be defined as the process whereby organisms produce new individuals of the same species. It is one of the important features of living things.",
     "chapters":[
     	{
@@ -120,7 +120,7 @@
 },
     "syllabus" : "Cambridge",
     "isFeatured":true,
-    "coverImageUrl":"https://imageio.forbes.com/specials-images/imageserve/623342a53b13713b856e9434//960x0.jpg",
+    "thumbnail":"https://imageio.forbes.com/specials-images/imageserve/623342a53b13713b856e9434//960x0.jpg",
     "descriptions" : "Organic chemistry is a branch of chemistry that focuses on the study of carbon-based compounds, which are essential building blocks of life. In this field, chemists investigate the structure, properties, composition, and reactions of organic molecules, ranging from simple hydrocarbons to complex biomolecules found in living organisms. Organic chemistry plays a vital role in various scientific disciplines, including medicine, pharmacology, biochemistry, agriculture, and materials science, offering insights into the synthesis, manipulation, and understanding of organic compounds.",
     "chapters":[
     	{
