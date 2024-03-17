@@ -47,6 +47,93 @@
     "createdAt":"2024-03-17 15:08:06.392933",
     "updatedAt":"2024-03-17 15:08:06.392933",
   "__v":1
-}
+},
+
+
+{
+    "_id":"lsdllu328432432jw3s4",
+    "isActive" : true,
+    "isDeleted" : false,
+    "name":"Plant Reproduction",
+    "subject" : {
+    "_id":"this23jsldslfjsorewf",
+    "isActive":true,
+    "isDeleted":false,
+    "name":"Chemistry",
+    "syllabus":"NECTA",
+    "createdAt":"2024-03-17 15:08:06.392933",
+    "updatedAt":"2024-03-17 15:08:06.392933",
+    "__v":1
+},
+    "level" : {
+    "_id":"this234j4323fdjsd4343",
+    "isActive":true,
+    "isDeleted":false,
+    "name":"Form Three",
+    "syllabus":"NECTA",
+    "createdAt":"2024-03-17 15:08:06.392933",
+    "updatedAt":"2024-03-17 15:08:06.392933",
+    "__v":1
+},
+    "syllabus" : "NECTA",
+    "isFeatured":true,
+    "coverImageUrl":"https://www.easyelimu.com/images/highschoolnotes/biology/form_3/flower_structure.PNG",
+    "descriptions" : "Reproduction is the ability of living organisms to form new individuals of the same species from those already in existence. Here, the new organisms replace those that have died and so life continues. It can also be defined as the process whereby organisms produce new individuals of the same species. It is one of the important features of living things.",
+    "chapters":[
+    	{
+    		"_id":"lsdfjou44fdfg5",
+    		"name":"Intro to Plant Reproduction",
+    		"topic":"lsdllu328432432ju434",
+    		"chapterNo":1,
+    		"content":"Plant reproduction is the production of new offspring in plants, which can be accomplished by sexual or asexual reproduction. Sexual reproduction produces offspring by the fusion of gametes, resulting in offspring genetically different from either parent. Asexual reproduction produces new individuals without the fusion of gametes, resulting in clonal plants that are genetically identical to the parent plant and each other, unless mutations occurs."
+    	}
+    ],
+    "createdAt":"2024-03-17 15:08:06.392933",
+    "updatedAt":"2024-03-17 15:08:06.392933",
+  "__v":1
+},
+
+{
+    "_id":"lsdllu328432ojojlj4",
+    "isActive" : true,
+    "isDeleted" : false,
+    "name":"Motion",
+    "subject" : {
+    "_id":"this23jsldslfjsor4de",
+    "isActive":true,
+    "isDeleted":false,
+    "name":"Physics",
+    "syllabus":"Cambridge",
+    "createdAt":"2024-03-17 15:08:06.392933",
+    "updatedAt":"2024-03-17 15:08:06.392933",
+    "__v":1
+},
+    "level" : {
+"_id": "this234j4343feww4343",
+"isActive": true,
+"isDeleted": false,
+"name": "Lower Class",
+"syllabus": "Cambridge",
+"createdAt": "2024-03-17 15:08:06.392933",
+"updatedAt": "2024-03-17 15:08:06.392933",
+"__v": 1
+},
+    "syllabus" : "Cambridge",
+    "isFeatured":true,
+    "coverImageUrl":"https://imageio.forbes.com/specials-images/imageserve/623342a53b13713b856e9434//960x0.jpg",
+    "descriptions" : "Organic chemistry is a branch of chemistry that focuses on the study of carbon-based compounds, which are essential building blocks of life. In this field, chemists investigate the structure, properties, composition, and reactions of organic molecules, ranging from simple hydrocarbons to complex biomolecules found in living organisms. Organic chemistry plays a vital role in various scientific disciplines, including medicine, pharmacology, biochemistry, agriculture, and materials science, offering insights into the synthesis, manipulation, and understanding of organic compounds.",
+    "chapters":[
+    	{
+    		"_id":"lsdfjou4432dsdr",
+    		"name":"Speed",
+    		"topic":"lsdllu328432ojojlj4",
+    		"chapterNo":1,
+    		"content":"Speed is a measure of the rate of change of the distance traveled by a moving object. speed is a scalar, which means that it is a unit of measurement that has magnitude but does not have direction. The pace at which an object travels over a certain distance is known as speed."
+    	}
+    ],
+    "createdAt":"2024-03-17 15:08:06.392933",
+    "updatedAt":"2024-03-17 15:08:06.392933",
+  "__v":1
+},
 
 ]
