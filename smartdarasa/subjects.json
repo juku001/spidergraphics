@@ -1,0 +1,23 @@
+[
+{
+    "_id":"this23jsldslfjsorewf",
+    "isActive":true,
+    "isDeleted":false,
+    "name":"Chemistry",
+    "syllabus":"NECTA",
+    "createdAt":"2024-03-17 15:08:06.392933",
+    "updatedAt":"2024-03-17 15:08:06.392933",
+    "__v":1
+},
+
+{
+    "_id":"this23jsldslfjsor4de",
+    "isActive":true,
+    "isDeleted":false,
+    "name":"Form One",
+    "syllabus":"NECTA",
+    "createdAt":"2024-03-17 15:08:06.392933",
+    "updatedAt":"2024-03-17 15:08:06.392933",
+    "__v":1
+}
+]
